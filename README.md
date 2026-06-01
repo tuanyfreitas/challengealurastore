@@ -23,7 +23,7 @@ Projeto realizado para o desafio da Alura Store, com objetivo de ajudar o Sr. Jo
 
 ## Como executar
 
-1. Faça o download do notebook `https://colab.research.google.com/drive/1wcNM17gF0F-mDp1yRmUUDkhmj-bt05rc?usp=sharing`.
+1. Faça o download do notebook [Google Colab](https://colab.research.google.com/drive/1wcNM17gF0F-mDp1yRmUUDkhmj-bt05rc?usp=sharing).
 2. Abra no Google Colab ou Jupyter.
 3. Execute as células para reproduzir a análise.
 
